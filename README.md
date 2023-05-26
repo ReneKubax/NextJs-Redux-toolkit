@@ -8,7 +8,7 @@ Build locally:
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/ReneKubax/twitter-clone
+git clone https://github.com/ReneKubax/NextJs-Redux-toolkit
 ```
 
 **2. Install Dependencies**
